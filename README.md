@@ -12,4 +12,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+  
+  <!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 </div>
