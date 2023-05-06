@@ -4,12 +4,20 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2021 - To: 04 May 2023
+From: 15 March 2021 - To: 05 May 2023
 
-Total Time: 58 hrs 37 mins
+Total Time: 60 hrs 15 mins
 
-TypeScript   26 hrs 31 mins  >>>>>>>>>>>--------------   45.26 %
-Other        14 hrs 12 mins  >>>>>>-------------------   24.23 %
+TypeScript   26 hrs 31 mins  >>>>>>>>>>>--------------   44.04 %
+Other        14 hrs 12 mins  >>>>>>-------------------   23.58 %
+JSON         5 hrs 13 mins   >>-----------------------   08.67 %
+JavaScript   3 hrs 54 mins   >>-----------------------   06.50 %
+Haskell      3 hrs 22 mins   >------------------------   05.59 %
+Markdown     1 hr 23 mins    >------------------------   02.31 %
+YAML         1 hr 11 mins    -------------------------   01.98 %
+Rust         56 mins         -------------------------   01.56 %
+Docker       45 mins         -------------------------   01.27 %
+TSConfig     45 mins         -------------------------   01.27 %
 ```
 
 <!--END_SECTION:waka-->
