@@ -3,21 +3,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naporin0624&layout=compact&hide=css" />
   <!--START_SECTION:waka-->
 
-```text
-From: 15 March 2021 - To: 01 June 2023
+```txt
+From: 15 March 2021 - To: 02 June 2023
 
-Total Time: 129 hrs 48 mins
+Total Time: 136 hrs 31 mins
 
-TypeScript      64 hrs 39 mins  >>>>>>>>>>>>-------------   49.81 %
-Other           16 hrs 9 mins   >>>----------------------   12.45 %
-JSON            14 hrs 58 mins  >>>----------------------   11.54 %
-Haskell         10 hrs 59 mins  >>-----------------------   08.46 %
-JavaScript      9 hrs 23 mins   >>-----------------------   07.23 %
-Markdown        2 hrs 53 mins   >------------------------   02.23 %
-YAML            1 hr 34 mins    -------------------------   01.21 %
-TSConfig        1 hr 29 mins    -------------------------   01.15 %
-Rust            56 mins         -------------------------   00.72 %
-HTML            51 mins         -------------------------   00.67 %
+TypeScript      64 hrs 43 mins  >>>>>>>>>>>>-------------   47.41 %
+JSON            18 hrs 46 mins  >>>----------------------   13.76 %
+Other           16 hrs 41 mins  >>>----------------------   12.23 %
+Haskell         10 hrs 59 mins  >>-----------------------   08.05 %
+JavaScript      9 hrs 57 mins   >>-----------------------   07.29 %
+Markdown        3 hrs 22 mins   >------------------------   02.48 %
+YAML            1 hr 34 mins    -------------------------   01.15 %
+TSConfig        1 hr 30 mins    -------------------------   01.10 %
+Groovy          1 hr 3 mins     -------------------------   00.78 %
+Rust            56 mins         -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->
