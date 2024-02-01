@@ -4,18 +4,18 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2021 - To: 30 January 2024
+From: 15 March 2021 - To: 31 January 2024
 
-Total Time: 2,011 hrs 22 mins
+Total Time: 2,022 hrs 30 mins
 
-Other                      906 hrs 6 mins  >>>>>>>>>>>--------------   45.05 %
-TypeScript                 827 hrs 6 mins  >>>>>>>>>>---------------   41.12 %
-JSON                       90 hrs 12 mins  >------------------------   04.48 %
-JavaScript                 58 hrs 20 mins  >------------------------   02.90 %
-YAML                       24 hrs 7 mins   -------------------------   01.20 %
+Other                      906 hrs 15 mins >>>>>>>>>>>--------------   44.81 %
+TypeScript                 837 hrs 47 mins >>>>>>>>>>---------------   41.42 %
+JSON                       90 hrs 27 mins  >------------------------   04.47 %
+JavaScript                 58 hrs 20 mins  >------------------------   02.88 %
+YAML                       24 hrs 7 mins   -------------------------   01.19 %
 Markdown                   15 hrs 46 mins  -------------------------   00.78 %
-Python                     12 hrs 38 mins  -------------------------   00.63 %
-Haskell                    10 hrs 59 mins  -------------------------   00.55 %
+Python                     12 hrs 38 mins  -------------------------   00.62 %
+Haskell                    10 hrs 59 mins  -------------------------   00.54 %
 TOML                       10 hrs 57 mins  -------------------------   00.54 %
 Astro                      6 hrs 27 mins   -------------------------   00.32 %
 ```
