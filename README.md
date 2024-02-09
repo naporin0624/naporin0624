@@ -24,7 +24,6 @@ From: 15 March 2021 - To: 08 February 2024
 
 Total Time: 2,058 hrs 55 mins
 
-Other                      909 hrs 27 mins >>>>>>>>>>>--------------   44.17 %
 TypeScript                 865 hrs 41 mins >>>>>>>>>>>--------------   42.05 %
 JSON                       91 hrs 33 mins  >------------------------   04.45 %
 JavaScript                 61 hrs 23 mins  >------------------------   02.98 %
