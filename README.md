@@ -16,8 +16,7 @@
 - **Languages & Technologies**: TypeScript, React, CSS, Next.js, NestJS, Firebase, React Native, Expo, GraphQL, Python, Flask, FastAPI, Pandas, NumPy, Scikit-Learn, Ruby, Rails, Swift
 - **Cloud & DevOps**: Cloudflare Workers, Cloudflare Pages, Cloudflare R2, Cloudflare Images
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=naporin0624&count_private=true&show_icons=true" />
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -38,4 +37,4 @@ Astro                      6 hrs 27 mins   -------------------------   00.31 %
 ```
 
 <!--END_SECTION:waka-->
-</div>
+
