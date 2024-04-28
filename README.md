@@ -45,20 +45,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2024 - To: 26 April 2024
+From: 20 April 2024 - To: 27 April 2024
 
-Total Time: 40 hrs 32 mins
+Total Time: 39 hrs 2 mins
 
-TypeScript         31 hrs 20 mins  >>>>>>>>>>>>>>>>>>>------   77.31 %
-Other              2 hrs 23 mins   >------------------------   05.90 %
-JSON               2 hrs 1 min     >------------------------   04.98 %
-TOML               1 hr 52 mins    >------------------------   04.63 %
-JavaScript         1 hr 5 mins     >------------------------   02.69 %
-YAML               30 mins         -------------------------   01.27 %
-Haskell            24 mins         -------------------------   01.01 %
-Python             19 mins         -------------------------   00.81 %
-Git Config         10 mins         -------------------------   00.42 %
-TSConfig           9 mins          -------------------------   00.38 %
+TypeScript    31 hrs 41 mins  >>>>>>>>>>>>>>>>>>>>-----   81.17 %
+Other         2 hrs 24 mins   >>-----------------------   06.17 %
+JSON          2 hrs 4 mins    >------------------------   05.32 %
+JavaScript    1 hr 8 mins     >------------------------   02.93 %
+YAML          32 mins         -------------------------   01.37 %
+Haskell       24 mins         -------------------------   01.04 %
+TOML          22 mins         -------------------------   00.94 %
+TSConfig      9 mins          -------------------------   00.43 %
+CSS           7 mins          -------------------------   00.34 %
+Markdown      4 mins          -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
