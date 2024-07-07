@@ -14,20 +14,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2024 - To: 05 July 2024
+From: 29 June 2024 - To: 06 July 2024
 
-Total Time: 36 hrs
+Total Time: 32 hrs 16 mins
 
-TypeScript        15 hrs 54 mins  >>>>>>>>>>>--------------   44.19 %
-Java              9 hrs 47 mins   >>>>>>>------------------   27.17 %
-JavaScript        3 hrs 16 mins   >>-----------------------   09.09 %
-JSON              2 hrs 8 mins    >------------------------   05.97 %
-Other             1 hr 53 mins    >------------------------   05.27 %
-YAML              1 hr 7 mins     >------------------------   03.11 %
-Java Properties   32 mins         -------------------------   01.51 %
-TOML              27 mins         -------------------------   01.27 %
-TSConfig          11 mins         -------------------------   00.52 %
-Perl              9 mins          -------------------------   00.45 %
+TypeScript        11 hrs 48 mins  >>>>>>>>>----------------   36.58 %
+Java              9 hrs 47 mins   >>>>>>>>-----------------   30.31 %
+JavaScript        3 hrs 14 mins   >>>----------------------   10.07 %
+Other             2 hrs 52 mins   >>-----------------------   08.92 %
+JSON              1 hr 56 mins    >>-----------------------   06.02 %
+YAML              56 mins         >------------------------   02.91 %
+Java Properties   32 mins         -------------------------   01.68 %
+TOML              16 mins         -------------------------   00.87 %
+TSConfig          9 mins          -------------------------   00.51 %
+Perl              9 mins          -------------------------   00.50 %
 ```
 
 <!--END_SECTION:waka-->
