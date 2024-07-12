@@ -6,7 +6,6 @@
 
 ## What I Love ❤️
 - TypeScript
-- Haskell
 - Music (Vocaloid)
 - FPS Games
 - Project Sekai (Colorful Stage! feat. Hatsune Miku)
