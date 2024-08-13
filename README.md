@@ -13,20 +13,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2024 - To: 11 August 2024
+From: 05 August 2024 - To: 12 August 2024
 
-Total Time: 26 hrs 29 mins
+Total Time: 22 hrs 34 mins
 
-TypeScript   15 hrs 14 mins  >>>>>>>>>>>>>>-----------   57.54 %
-Other        4 hrs 33 mins   >>>>---------------------   17.23 %
-JSON         3 hrs 40 mins   >>>----------------------   13.87 %
-YAML         56 mins         >------------------------   03.55 %
-Markdown     51 mins         >------------------------   03.25 %
-JavaScript   44 mins         >------------------------   02.79 %
-TSConfig     11 mins         -------------------------   00.71 %
-HTML         7 mins          -------------------------   00.50 %
-TOML         4 mins          -------------------------   00.26 %
-Git Config   2 mins          -------------------------   00.15 %
+TypeScript   13 hrs 22 mins  >>>>>>>>>>>>>>>----------   59.26 %
+Other        3 hrs 36 mins   >>>>---------------------   16.02 %
+JSON         3 hrs 25 mins   >>>>---------------------   15.15 %
+YAML         56 mins         >------------------------   04.17 %
+JavaScript   39 mins         >------------------------   02.90 %
+TSConfig     10 mins         -------------------------   00.79 %
+HTML         7 mins          -------------------------   00.59 %
+Markdown     6 mins          -------------------------   00.50 %
+TOML         3 mins          -------------------------   00.26 %
+Git Config   2 mins          -------------------------   00.17 %
 ```
 
 <!--END_SECTION:waka-->
