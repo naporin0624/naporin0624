@@ -13,20 +13,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-Total Time: 8 hrs 18 mins
+Total Time: 8 hrs 4 mins
 
-TypeScript    5 hrs 47 mins   >>>>>>>>>>>>>>>>>--------   69.60 %
-Other         47 mins         >>-----------------------   09.45 %
-YAML          46 mins         >>-----------------------   09.31 %
-JavaScript    30 mins         >>-----------------------   06.09 %
-JSON          25 mins         >------------------------   05.10 %
-Markdown      1 min           -------------------------   00.20 %
-TOML          0 secs          -------------------------   00.12 %
+TypeScript    5 hrs 31 mins   >>>>>>>>>>>>>>>>>--------   68.43 %
+YAML          47 mins         >>-----------------------   09.85 %
+Other         47 mins         >>-----------------------   09.73 %
+JavaScript    30 mins         >>-----------------------   06.27 %
+JSON          25 mins         >------------------------   05.25 %
+Markdown      1 min           -------------------------   00.21 %
+TOML          0 secs          -------------------------   00.13 %
 Docker        0 secs          -------------------------   00.06 %
 TSConfig      0 secs          -------------------------   00.04 %
-Image (svg)   0 secs          -------------------------   00.02 %
+Image (svg)   0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
