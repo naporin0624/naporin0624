@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Total Time: 44 hrs 23 mins
+Total Time: 42 hrs 20 mins
 
-TypeScript   27 hrs 18 mins  >>>>>>>>>>>>>>>----------   61.51 %
-unity        9 hrs 4 mins    >>>>>--------------------   20.45 %
-JSON         1 hr 16 mins    >------------------------   02.86 %
-TOML         1 hr 6 mins     >------------------------   02.50 %
-Prisma       39 mins         -------------------------   01.50 %
-Docker       25 mins         -------------------------   00.96 %
-CSV          17 mins         -------------------------   00.64 %
-CSS          15 mins         -------------------------   00.57 %
-JavaScript   11 mins         -------------------------   00.43 %
+TypeScript    29 hrs 45 mins  >>>>>>>>>>>>>>>>>>-------   70.27 %
+unity         6 hrs 59 mins   >>>>---------------------   16.50 %
+TOML          1 hr 50 mins    >------------------------   04.34 %
+Prisma        39 mins         -------------------------   01.57 %
+JSON          25 mins         -------------------------   01.02 %
+Docker        25 mins         -------------------------   01.00 %
+JavaScript    13 mins         -------------------------   00.53 %
+Bash          10 mins         -------------------------   00.43 %
+TSConfig      6 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
