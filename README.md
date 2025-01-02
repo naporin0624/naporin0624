@@ -13,19 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 30 hrs 33 mins
+Total Time: 23 hrs 47 mins
 
-unity        5 hrs 51 mins   >>>>>--------------------   19.18 %
-TypeScript   2 hrs 4 mins    >>-----------------------   06.77 %
-CSS          41 mins         >------------------------   02.25 %
-JSON         23 mins         -------------------------   01.30 %
-YAML         12 mins         -------------------------   00.69 %
-SSH Config   4 mins          -------------------------   00.26 %
-Markdown     0 secs          -------------------------   00.01 %
-JavaScript   0 secs          -------------------------   00.01 %
-Git Config   0 secs          -------------------------   00.01 %
+unity        3 hrs 26 mins   >>>>---------------------   14.50 %
+SSH Config   4 mins          -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
