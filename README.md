@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2024 - To: 03 January 2025
+From: 28 December 2024 - To: 04 January 2025
 
-Total Time: 23 hrs 32 mins
+Total Time: 18 hrs 2 mins
 
-unity   4 hrs 48 mins   >>>>>--------------------   20.38 %
+unity   4 hrs 48 mins   >>>>>>>------------------   26.59 %
 ```
 
 <!--END_SECTION:waka-->
