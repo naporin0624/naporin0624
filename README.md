@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 02 April 2025
+From: 27 March 2025 - To: 03 April 2025
 
-Total Time: 49 hrs 14 mins
+Total Time: 47 hrs 38 mins
 
-TypeScript    17 hrs 14 mins  >>>>>>>>>----------------   35.02 %
-Image (svg)   7 hrs 52 mins   >>>>---------------------   16.00 %
-unity         5 hrs 51 mins   >>>----------------------   11.91 %
-Python        13 mins         -------------------------   00.45 %
-JSON          11 mins         -------------------------   00.40 %
-XML           5 mins          -------------------------   00.19 %
+TypeScript    16 hrs 35 mins  >>>>>>>>>----------------   34.84 %
+unity         8 hrs 6 mins    >>>>---------------------   17.01 %
+Image (svg)   6 hrs 34 mins   >>>----------------------   13.80 %
+Python        13 mins         -------------------------   00.46 %
+XML           5 mins          -------------------------   00.20 %
 Markdown      5 mins          -------------------------   00.19 %
 Text          3 mins          -------------------------   00.12 %
-TOML          1 min           -------------------------   00.06 %
+HTML          1 min           -------------------------   00.05 %
+JavaScript    1 min           -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
