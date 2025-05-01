@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2025 - To: 29 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Total Time: 38 hrs 2 mins
+Total Time: 36 hrs 22 mins
 
-TypeScript      4 hrs 34 mins   >>>----------------------   12.04 %
-unity           2 hrs 14 mins   >------------------------   05.89 %
-JSON            1 hr 9 mins     >------------------------   03.05 %
-JavaScript      28 mins         -------------------------   01.24 %
-Python          15 mins         -------------------------   00.69 %
-Text            11 mins         -------------------------   00.51 %
-Markdown        2 mins          -------------------------   00.12 %
+TypeScript      3 hrs 44 mins   >>>----------------------   10.31 %
+unity           1 hr 25 mins    >------------------------   03.90 %
+Python          15 mins         -------------------------   00.71 %
+Text            11 mins         -------------------------   00.53 %
+JSON            10 mins         -------------------------   00.47 %
+Markdown        2 mins          -------------------------   00.13 %
 EJS             2 mins          -------------------------   00.12 %
-Unity3D Asset   1 min           -------------------------   00.09 %
+Smarty          0 secs          -------------------------   00.02 %
+HTML            0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
