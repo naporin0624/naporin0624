@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2025 - To: 03 May 2025
+From: 27 April 2025 - To: 04 May 2025
 
-Total Time: 24 hrs 37 mins
+Total Time: 17 hrs 51 mins
 
-unity        5 hrs 49 mins   >>>>>>-------------------   23.64 %
-TypeScript   51 mins         >------------------------   03.51 %
-Python       15 mins         -------------------------   01.05 %
-JSON         13 mins         -------------------------   00.92 %
-Text         11 mins         -------------------------   00.79 %
+unity        4 hrs 50 mins   >>>>>>>------------------   27.09 %
+TypeScript   51 mins         >------------------------   04.84 %
+Python       15 mins         -------------------------   01.44 %
+Text         11 mins         -------------------------   01.09 %
+JSON         3 mins          -------------------------   00.34 %
 ```
 
 <!--END_SECTION:waka-->
