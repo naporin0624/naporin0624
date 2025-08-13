@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2025 - To: 11 August 2025
+From: 05 August 2025 - To: 12 August 2025
 
-Total Time: 30 hrs 13 mins
+Total Time: 24 hrs 15 mins
 
-TypeScript           5 hrs 45 mins   >>>>>--------------------   19.04 %
-YAML                 1 hr 26 mins    >------------------------   04.77 %
-Markdown             55 mins         >------------------------   03.04 %
-JSON                 46 mins         >------------------------   02.54 %
-CSS                  19 mins         -------------------------   01.08 %
-TOML                 11 mins         -------------------------   00.66 %
-TSConfig             9 mins          -------------------------   00.52 %
-MDX                  8 mins          -------------------------   00.44 %
-JSON with Comments   7 mins          -------------------------   00.42 %
+TypeScript           4 hrs 20 mins   >>>>---------------------   17.89 %
+YAML                 1 hr 20 mins    >------------------------   05.50 %
+JSON                 21 mins         -------------------------   01.45 %
+CSS                  19 mins         -------------------------   01.35 %
+Markdown             13 mins         -------------------------   00.95 %
+TOML                 8 mins          -------------------------   00.56 %
+Python               7 mins          -------------------------   00.49 %
+JavaScript           1 min           -------------------------   00.13 %
+Batchfile            1 min           -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
