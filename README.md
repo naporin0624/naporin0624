@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-Total Time: 19 hrs 30 mins
+Total Time: 10 hrs 4 mins
 
-JSON       43 mins         >------------------------   03.68 %
-TOML       24 mins         >------------------------   02.06 %
-YAML       15 mins         -------------------------   01.33 %
-Bash       11 mins         -------------------------   00.99 %
-Markdown   9 mins          -------------------------   00.83 %
+JSON       43 mins         >>-----------------------   07.13 %
+TOML       24 mins         >------------------------   03.99 %
+YAML       15 mins         >------------------------   02.59 %
+Bash       11 mins         -------------------------   01.91 %
+Markdown   9 mins          -------------------------   01.61 %
 ```
 
 <!--END_SECTION:waka-->
