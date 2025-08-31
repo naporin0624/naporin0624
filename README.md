@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 19 hrs 59 mins
+Total Time: 28 hrs 22 mins
 
-TypeScript      1 hr 24 mins    >>-----------------------   07.03 %
-Markdown        11 mins         -------------------------   00.93 %
-TOML            6 mins          -------------------------   00.57 %
-Git Config      4 mins          -------------------------   00.34 %
-YAML            3 mins          -------------------------   00.33 %
-JSON            0 secs          -------------------------   00.06 %
-TSConfig        0 secs          -------------------------   00.04 %
-Diff            0 secs          -------------------------   00.02 %
-Unity3D Asset   0 secs          -------------------------   00.01 %
+TypeScript      1 hr 32 mins    >------------------------   05.42 %
+Markdown        12 mins         -------------------------   00.73 %
+JSON            11 mins         -------------------------   00.67 %
+TOML            8 mins          -------------------------   00.50 %
+HTML            6 mins          -------------------------   00.37 %
+YAML            4 mins          -------------------------   00.27 %
+Git Config      4 mins          -------------------------   00.24 %
+TSConfig        0 secs          -------------------------   00.03 %
+JavaScript      0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
