@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2025 - To: 22 September 2025
+From: 16 September 2025 - To: 23 September 2025
 
-Total Time: 25 hrs 27 mins
+Total Time: 17 hrs 37 mins
 
-TypeScript   2 hrs 59 mins   >>>----------------------   11.77 %
-JSON         1 hr 54 mins    >>-----------------------   07.48 %
-TSConfig     41 mins         >------------------------   02.74 %
-HLSL         36 mins         >------------------------   02.37 %
-TOML         33 mins         >------------------------   02.18 %
-JavaScript   32 mins         >------------------------   02.13 %
-YAML         24 mins         -------------------------   01.61 %
-SCSS         18 mins         -------------------------   01.19 %
-GraphQL      15 mins         -------------------------   01.00 %
+TypeScript   1 hr 48 mins    >>>----------------------   10.30 %
+JSON         1 hr 3 mins     >------------------------   05.98 %
+TSConfig     41 mins         >------------------------   03.96 %
+JavaScript   27 mins         >------------------------   02.56 %
+SCSS         18 mins         -------------------------   01.73 %
+GraphQL      15 mins         -------------------------   01.45 %
+YAML         13 mins         -------------------------   01.23 %
+Markdown     10 mins         -------------------------   01.02 %
+Smarty       10 mins         -------------------------   00.97 %
 ```
 
 <!--END_SECTION:waka-->
