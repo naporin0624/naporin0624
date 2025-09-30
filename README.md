@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2025 - To: 27 September 2025
+From: 21 September 2025 - To: 28 September 2025
 
-Total Time: 11 hrs 44 mins
+Total Time: 11 hrs 39 mins
 
-TypeScript   3 hrs 32 mins   >>>>>>>>-----------------   30.19 %
-TOML         25 mins         >------------------------   03.58 %
-CSV          15 mins         >------------------------   02.17 %
+TypeScript   3 hrs 32 mins   >>>>>>>>-----------------   30.40 %
+TOML         25 mins         >------------------------   03.61 %
+CSV          15 mins         >------------------------   02.19 %
 JSON         5 mins          -------------------------   00.82 %
 Markdown     1 min           -------------------------   00.18 %
 YAML         0 secs          -------------------------   00.09 %
