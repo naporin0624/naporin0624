@@ -13,17 +13,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
-Total Time: 27 hrs 28 mins
+Total Time: 29 hrs 15 mins
 
-TypeScript           7 hrs 11 mins   >>>>>>>------------------   26.15 %
-JSON                 35 mins         >------------------------   02.18 %
-JavaScript           29 mins         -------------------------   01.80 %
-TOML                 29 mins         -------------------------   01.78 %
-Markdown             15 mins         -------------------------   00.96 %
-HTML                 6 mins          -------------------------   00.40 %
-TSConfig             2 mins          -------------------------   00.17 %
+TypeScript           7 hrs 11 mins   >>>>>>-------------------   24.55 %
+JSON                 35 mins         >------------------------   02.05 %
+JavaScript           29 mins         -------------------------   01.69 %
+TOML                 29 mins         -------------------------   01.67 %
+Markdown             15 mins         -------------------------   00.90 %
+HTML                 6 mins          -------------------------   00.37 %
+TSConfig             2 mins          -------------------------   00.16 %
 YAML                 0 secs          -------------------------   00.02 %
 JSON with Comments   0 secs          -------------------------   00.02 %
 ```
