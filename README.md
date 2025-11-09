@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
-Total Time: 24 hrs 33 mins
+Total Time: 25 hrs 41 mins
 
-TypeScript   43 mins         >------------------------   02.94 %
-PowerShell   23 mins         -------------------------   01.62 %
-XML          16 mins         -------------------------   01.10 %
-unity        15 mins         -------------------------   01.04 %
-Bash         8 mins          -------------------------   00.57 %
+TypeScript   43 mins         >------------------------   02.81 %
+PowerShell   23 mins         -------------------------   01.55 %
+XML          16 mins         -------------------------   01.05 %
+unity        15 mins         -------------------------   01.00 %
+Bash         8 mins          -------------------------   00.54 %
 YAML         0 secs          -------------------------   00.03 %
 JSON         0 secs          -------------------------   00.01 %
 ```
