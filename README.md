@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2025 - To: 05 December 2025
+From: 29 November 2025 - To: 06 December 2025
 
-Total Time: 47 hrs 16 mins
+Total Time: 44 hrs 36 mins
 
-TypeScript           18 hrs 55 mins  >>>>>>>>>>---------------   40.04 %
-Markdown             6 hrs 59 mins   >>>>---------------------   14.80 %
-C++                  4 hrs 29 mins   >>-----------------------   09.52 %
-JSON                 3 hrs           >>-----------------------   06.38 %
-TOML                 1 hr 15 mins    >------------------------   02.66 %
-Python               1 hr 9 mins     >------------------------   02.44 %
-YAML                 48 mins         -------------------------   01.71 %
-Bash                 33 mins         -------------------------   01.19 %
-Jest Snapshot        32 mins         -------------------------   01.14 %
+TypeScript           16 hrs 17 mins  >>>>>>>>>----------------   36.54 %
+Markdown             6 hrs 3 mins    >>>----------------------   13.59 %
+C++                  4 hrs 29 mins   >>>----------------------   10.08 %
+JSON                 2 hrs 58 mins   >>-----------------------   06.66 %
+TOML                 1 hr 9 mins     >------------------------   02.61 %
+Python               1 hr 9 mins     >------------------------   02.58 %
+YAML                 47 mins         -------------------------   01.78 %
+Bash                 33 mins         -------------------------   01.26 %
+Jest Snapshot        32 mins         -------------------------   01.21 %
 ```
 
 <!--END_SECTION:waka-->
