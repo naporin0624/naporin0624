@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2026 - To: 28 February 2026
+From: 22 February 2026 - To: 01 March 2026
 
-Total Time: 11 hrs 41 mins
+Total Time: 16 hrs 48 mins
 
-TypeScript      2 hrs 7 mins          >>>>>--------------------   18.23 %
-Markdown        1 hr 22 mins          >>>----------------------   11.69 %
-JSON            40 mins               >------------------------   05.73 %
-Astro           18 mins               >------------------------   02.68 %
-HTML            13 mins               -------------------------   01.87 %
-Git Config      8 mins                -------------------------   01.23 %
-Text            5 mins                -------------------------   00.84 %
-Jest Snapshot   3 mins                -------------------------   00.43 %
-JavaScript      0 secs                -------------------------   00.03 %
+TypeScript      4 hrs 43 mins         >>>>>>>------------------   28.06 %
+Markdown        1 hr 37 mins          >>-----------------------   09.71 %
+JSON            40 mins               >------------------------   04.03 %
+Astro           18 mins               -------------------------   01.86 %
+HTML            13 mins               -------------------------   01.30 %
+Git Config      8 mins                -------------------------   00.86 %
+Text            5 mins                -------------------------   00.59 %
+SQL             3 mins                -------------------------   00.39 %
+Jest Snapshot   3 mins                -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->
