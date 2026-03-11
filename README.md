@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2026 - To: 09 March 2026
+From: 03 March 2026 - To: 10 March 2026
 
-Total Time: 28 hrs 27 mins
+Total Time: 31 hrs 41 mins
 
-TypeScript                3 hrs 22 mins         >>>----------------------   11.86 %
-HTML                      1 hr 25 mins          >------------------------   05.01 %
-Markdown                  37 mins               >------------------------   02.20 %
-Unity3D Asset             25 mins               -------------------------   01.50 %
-Jest Snapshot             8 mins                -------------------------   00.52 %
-Git Config                8 mins                -------------------------   00.47 %
-Python                    5 mins                -------------------------   00.30 %
-Bash                      4 mins                -------------------------   00.28 %
-JSON                      3 mins                -------------------------   00.23 %
+TypeScript      7 hrs 30 mins         >>>>>>-------------------   23.68 %
+Markdown        1 hr 57 mins          >>-----------------------   06.19 %
+Unity3D Asset   25 mins               -------------------------   01.35 %
+JSON            21 mins               -------------------------   01.11 %
+C#              19 mins               -------------------------   01.02 %
+Git Config      15 mins               -------------------------   00.83 %
+Jest Snapshot   8 mins                -------------------------   00.46 %
+Python          5 mins                -------------------------   00.27 %
+HTML            4 mins                -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->
