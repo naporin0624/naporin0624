@@ -13,9 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2026 - To: 27 June 2026
+From: 21 June 2026 - To: 28 June 2026
 
-Total Time: 13 hrs 15 mins
+Total Time: 15 hrs 5 mins
+
+PowerShell   6 mins                -------------------------   00.73 %
+TOML         5 mins                -------------------------   00.66 %
+YAML         1 min                 -------------------------   00.21 %
+Bash         0 secs                -------------------------   00.04 %
+Rust         0 secs                -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
