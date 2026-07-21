@@ -13,17 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2026 - To: 19 July 2026
+From: 13 July 2026 - To: 20 July 2026
 
-Total Time: 15 hrs 36 mins
+Total Time: 13 hrs 53 mins
 
-Rust            1 hr 11 mins          >>-----------------------   07.59 %
-Markdown        49 mins               >------------------------   05.33 %
-C++             16 mins               -------------------------   01.73 %
-PowerShell      10 mins               -------------------------   01.07 %
-Objective-C++   3 mins                -------------------------   00.40 %
-Batchfile       1 min                 -------------------------   00.21 %
-TOML            0 secs                -------------------------   00.03 %
+Markdown   30 mins               >------------------------   03.69 %
+Rust       27 mins               >------------------------   03.33 %
 ```
 
 <!--END_SECTION:waka-->
