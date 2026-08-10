@@ -13,19 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Total Time: 41 hrs 52 mins
-
-HTML         1 hr 9 mins           >------------------------   02.75 %
-Markdown     49 mins               -------------------------   01.97 %
-TypeScript   36 mins               -------------------------   01.46 %
-TOML         28 mins               -------------------------   01.12 %
-JSON         10 mins               -------------------------   00.42 %
-Text         5 mins                -------------------------   00.23 %
-Rust         3 mins                -------------------------   00.15 %
-TSConfig     0 secs                -------------------------   00.01 %
-CSS          0 secs                -------------------------   00.01 %
+Total Time: 42 hrs 24 mins
 ```
 
 <!--END_SECTION:waka-->
