@@ -13,13 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2026 - To: 29 September 2026
+From: 23 September 2026 - To: 30 September 2026
 
-Total Time: 18 hrs 29 mins
-
-Markdown     1 hr 21 mins          >>-----------------------   07.38 %
-Text         1 hr 6 mins           >------------------------   05.96 %
-TypeScript   37 mins               >------------------------   03.36 %
+Total Time: 17 hrs 6 mins
 ```
 
 <!--END_SECTION:waka-->
