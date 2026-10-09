@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Total Time: 44 hrs 8 mins
+Total Time: 39 hrs 36 mins
 
-JavaScript   47 mins               -------------------------   01.78 %
-Markdown     6 mins                -------------------------   00.26 %
-JSON         2 mins                -------------------------   00.08 %
+JavaScript   47 mins               -------------------------   01.98 %
+Markdown     6 mins                -------------------------   00.29 %
+JSON         2 mins                -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
