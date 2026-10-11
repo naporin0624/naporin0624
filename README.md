@@ -13,13 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2026 - To: 09 October 2026
+From: 03 October 2026 - To: 10 October 2026
 
-Total Time: 40 hrs 31 mins
-
-JavaScript   47 mins               -------------------------   01.94 %
-Markdown     6 mins                -------------------------   00.28 %
-JSON         2 mins                -------------------------   00.09 %
+Total Time: 48 hrs 2 mins
 ```
 
 <!--END_SECTION:waka-->
