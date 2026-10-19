@@ -13,9 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
-Total Time: 16 hrs 40 mins
+Total Time: 10 hrs 37 mins
 ```
 
 <!--END_SECTION:waka-->
